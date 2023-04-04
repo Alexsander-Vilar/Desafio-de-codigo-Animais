@@ -2,11 +2,17 @@
 
 Indica o animal de acordo com algumas características, sendo elas:
 
-Vertebrado: ave e mamífero.           Invertebrados: inseto e anelídeo.
+Vertebrado: ave e mamífero. 
 
-Ave: carnívoras e onívora.                  inseto: hematófago e herbívoro.
+Invertebrados: inseto e anelídeo.        
 
-Mamífero: onívoro e herbívoro.        anelídeo: hematófago e onívoro.
+Ave: carnívoras e onívora.                  
+
+Mamífero: onívoro e herbívoro.
+
+inseto: hematófago e herbívoro.        
+
+anelídeo: hematófago e onívoro.
 
 
 
